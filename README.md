@@ -29,25 +29,25 @@ In this documentation, you will find images representing each page of the BBIT w
 
 ![BBIT Home Page](images/BBIT-home.png)
 
-This image showcases the home page of the BBIT website, featuring the barber shop's branding and introductory content.
+This image showcases the home page of the BBIT website, featuring the barber shop's branding and introductory content with picture of the barber & he's clients.
 
 ## About Page
 
 ![BBIT About Page](images/BBIT-about.png)
 
-This image displays the about page of the BBIT website, providing information about the barber shop and its team.
+This image displays the about page of the BBIT website, providing information about the barber shop and its team.(Disclaimer:the black & white img is of our Model)
 
 ## Services Page
 
 ![BBIT Services Page](images/BBIT-services.png)
 
-Here, you can see the services page of the BBIT website, highlighting the various services offered by the barber shop.
+Here, you can see the services page of the BBIT website, highlighting the various services offered by the barber shop. This has a carasel feature for clients to browse through what service they need and get a price quote 
 
 ## working hours & Portfolio Page
 
 ![BBIT Contact Page](images/BBIT-contact.png)
 
-Lastly, this image shows the contact page of the BBIT website, providing contact information and options for users to reach out to the barber shop.
+Lastly, this image shows the contact page of the BBIT website, providing watsapp contact information for users to reach out to the barber shop and schedule apointment
 
 ## Contact & Location Page
 
