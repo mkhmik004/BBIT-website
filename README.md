@@ -43,13 +43,13 @@ This image displays the about page of the BBIT website, providing information ab
 
 Here, you can see the services page of the BBIT website, highlighting the various services offered by the barber shop.
 
-## Contact Page
+## working hours & Portfolio Page
 
 ![BBIT Contact Page](images/BBIT-contact.png)
 
 Lastly, this image shows the contact page of the BBIT website, providing contact information and options for users to reach out to the barber shop.
 
-## Location Page
+## Contact & Location Page
 
 ![BBIT Location Page](images/BBIT-location.png)
 
